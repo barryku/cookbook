@@ -5,4 +5,4 @@ description       "Stop AEM/CQ service"
 version           "0.1.0"
 recipe            "stopCqService", "Main recipe"
 
-depends 'cq'
+#depends 'cq'
